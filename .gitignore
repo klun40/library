@@ -1,0 +1,32 @@
+#from template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#copy pasted
+*.jar
+
+# Binary folders
+*/bin/
+*/build/
+*/lib/
+*/libs/
+*/target/
+*/war/
+*/Users/
+
+# Generated folders
+*/.settings/
+*/.project
+*/.classpath
+
+
