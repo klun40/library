@@ -25,8 +25,9 @@ hs_err_pid*
 */Users/
 
 # Generated folders
-*/.settings/
-*/.project
-*/.classpath
+*.settings/
+*.project
+*.classpath
 
 
+/target/
